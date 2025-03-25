@@ -1,3 +1,3 @@
-# Super_Trunfo_Parte1
+# Super_Trunfo_Mestre
 
-Nesse projeto estou desenvolvendo a primeira parte do código para construir o programa de um super trunfo na linguagem C
+Nesse projeto estou desenvolvendo o jogo super trunfo na linguagem C, atualmente passei pelo nível mestre.
